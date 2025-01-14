@@ -167,9 +167,12 @@ First I will select File > Preferences, then navigate to the Network tab. Next I
 This will create a new NAT Network. If I want to modify the subnet, disable DHCP or support IPv6 I can do this by double-clicking the NAT Network.
 
 
+<img src="Folder/VirtualBox-VM-Adapter-Types.jpg">
+
 I am going to leave all of these options at default... so I am done creating the Virtual Network!
 Configure the Networking tab for your chosen network type. Again, the easiest solution is to create and use a NAT Network.
 
+<img src="Folder/VirtualBox-VM-Adapter-Types.jpg">
 
 
 <h2>Downloading Your operating systems ISO(s)</h2>
@@ -187,7 +190,7 @@ Centos 7
 Ubuntu
 Kali Linux
 
-Installing an OS on Your Lab VMs
+<h2>Installing an OS on Your Lab VMs</h2>
 Once you have downloaded your ISO file, it's time to mount it to your VM in VirtualBox. Mounting a VM is essentially like virtually inserting a disc into a DVD drive of a computer.
  
 Right click on your VM and select settings then open the Storage tab. From there click the Empty disc icon, then again the disc icon under Attributes on the right hand side of the window. Click the Choose Virtual Optical Disk File... and browse to and open your desired ISO.
