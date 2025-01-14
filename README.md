@@ -21,12 +21,6 @@ Let's dive in!
 
 <h2>Virtualization Overview</h2>
 So what is virtualization anyway? Basically, the IT term virtualization refers to the practice of emulating (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your host computer.
-
-
-
-<img src="/Folder/Attach-an-ISO.jpg">
-
-
  
 On the image below - the top computer would be the host computer. The three computers below the host are referred to as guest virtual machines.
 
@@ -200,6 +194,9 @@ Right click on your VM and select settings then open the Storage tab. From there
 
 Click OK and now when we launch the VM you will be able to begin your OS installation.
 I mounted a Windows Server 2016 ISO so when I launch the VM I will see the installation screen for this OS.
+
+
+<img src="Folder/Windows-Server-2016-Install-2.jpg">
 
 Now you can run through your OS installation and complete your lab setup.
 Wrapping it Up...
