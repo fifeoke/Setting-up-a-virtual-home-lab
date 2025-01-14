@@ -24,7 +24,7 @@ So what is virtualization anyway? Basically, the IT term virtualization refers t
 
 
 
-<img src=**![Attach-an-ISO](https://github.com/user-attachments/assets/2b0fdbe6-a43e-446b-bfb3-966a8dd34479)>
+<img src="/Folder/Attach-an-ISO.jpg">
 
 
  
