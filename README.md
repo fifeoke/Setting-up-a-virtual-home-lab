@@ -155,6 +155,11 @@ You can create a host-only network by select File > Host Network Manager
 Oracles documentation for the generic driver states:
 The generic driver attachment is special and cannot be considered as an alternative to other attachment types.
 
+
+<img src="Folder/NAT-Network-2.jpg">
+
+
+
 I am going to use a NAT Network since this will allow me to connect my VMs to each other and the internet. 
 
 First I will select File > Preferences, then navigate to the Network tab. Next I will click the plus button (circled in the image above).
@@ -167,7 +172,7 @@ Configure the Networking tab for your chosen network type. Again, the easiest so
 
 
 
-Downloading Your operating systems ISO(s)
+<h2>Downloading Your operating systems ISO(s)</h2>
 Next we need an operating system (OS) to install on our Virtual Machines. You could do this with a physical disc if you wanted, but most of the time you will want to download an ISO for OS installations.
  
 The easiest way to find what you're looking for is to simply google the name of your operating system with "ISO download" in the search.  For example if you want Windows Server 2016, just search 
