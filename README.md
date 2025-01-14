@@ -116,12 +116,15 @@ Keep in mind that you won't be able to access all of these network types if you 
 Here is an overview of the different network types you could create:
 
 
-NAT
+<img src="Folder/VM-Network.jpg">
+
+
+<h2>NAT</h2>
 This network type allows your VMs to use the internet connectivity of the host computer. You will have no connectivity to other VMs or the host computer. Use this type if your lab will only have one VM.
  
 Using NAT is as simple as right-clicking your VM and selecting Settings then navigating to the Network tab (image above)
 
-NAT Network
+<h2>NAT Network</h2>
 This network is the same as NAT, but it allows your VMs to communicate to other VMs that are attached to the same NAT network. Use this when your labs use multiple VMs and need internet connectivity.
  
 You can create a NAT Network by clicking on File > Preferences. Select the Network tab and then click the plus button to create a new NAT Network.
