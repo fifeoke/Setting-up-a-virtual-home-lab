@@ -21,6 +21,12 @@ Let's dive in!
 
 <h2>Virtualization Overview</h2>
 So what is virtualization anyway? Basically, the IT term virtualization refers to the practice of emulating (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your host computer.
+
+
+
+<img src=**![Attach-an-ISO](https://github.com/user-attachments/assets/2b0fdbe6-a43e-446b-bfb3-966a8dd34479)>
+
+
  
 On the image below - the top computer would be the host computer. The three computers below the host are referred to as guest virtual machines.
 
